@@ -119,43 +119,114 @@ class SarthakChauhan:
 
 ---
 
+## 🎯 Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI/ML & Research
+- Machine Learning, Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision (YOLOv8, Dehazing, Detection)
+- Transformers, LLMs, RAG Systems
+- Physics-Informed Neural Networks (PINNs)
+- Diffusion Models (SDXL, ControlNet)
+- Optimization, Feature Engineering, Statistical Modeling
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 LLM & Agents
+- LangChain, LlamaIndex, LangGraph
+- AutoGen, CrewAI, JinaAI
+- Prompt Engineering & Retrieval Optimization
+- Multi-Agent Systems for SQL, Automation & Pipelines
+- Vector Search & Embeddings
+- OpenAI API Integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Frameworks & Libraries
+- PyTorch, TensorFlow, Hugging Face
+- scikit-learn, OpenCV, NumPy, Pandas
+- FastAPI, Streamlit, DuckDB, MongoDB
+- Qdrant, Neo4j
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ MLOps & Systems
+- Docker, MLflow, Weights & Biases
+- ONNX, TensorRT (FP16/INT8 optimization)
+- Azure, GCP, Linux
+- Experiment Tracking, Profiling & Deployment
+- CUDA, LaTeX
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI/ML & Deep Learning
+### 🧠 Deep Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B6B?style=for-the-badge)
+![ControlNet](https://img.shields.io/badge/ControlNet-8B5CF6?style=for-the-badge)
+![PINNs](https://img.shields.io/badge/PINNs-10B981?style=for-the-badge)
 
-### LLM & Agents
+### 🤖 LLM Ecosystem
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8B5CF6?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🔗_LangGraph-2563EB?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/🚀_CrewAI-FF6B6B?style=for-the-badge)
 ![AutoGen](https://img.shields.io/badge/⚡_AutoGen-10B981?style=for-the-badge)
+![JinaAI](https://img.shields.io/badge/🔍_JinaAI-FF6B6B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-EC4899?style=for-the-badge)
 
-### MLOps & Infrastructure
+### 🚀 Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 📊 MLOps & Optimization
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### Databases & Tools
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
@@ -164,12 +235,30 @@ class SarthakChauhan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeninjasarthak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninjasarthak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeninjasarthak&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=FFFFFF"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Codeninjasarthak&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codeninjasarthak&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeNinjaSarthak/CodeNinjaSarthak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeNinjaSarthak/CodeNinjaSarthak/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/CodeNinjaSarthak/CodeNinjaSarthak/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -202,6 +291,14 @@ class SarthakChauhan:
 
 ---
 
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -211,6 +308,10 @@ class SarthakChauhan:
 💼 **Open to:** Research Collaborations | Open Source | AI/ML Internships
 
 📧 **Reach me at:** [sarthak4156@gmail.com](mailto:sarthak4156@gmail.com)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Codeninjasarthak&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
