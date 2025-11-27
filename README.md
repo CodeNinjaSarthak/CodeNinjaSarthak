@@ -235,7 +235,11 @@ class SarthakChauhan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=codeninjasarthak&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180" alt="Top Languages"/>
 </div>
 
