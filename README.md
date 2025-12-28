@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=codeninjasarthak&style=flat-square&color=6366f1" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=CodeNinjaSarthak&style=flat-square&color=6366f1" alt="Profile Views"/>
 
 </div>
 
@@ -235,22 +235,22 @@ class SarthakChauhan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=codeninjasarthak&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeninjasarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinjaSarthak&layout=compact&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Codeninjasarthak&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codeninjasarthak&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeNinjaSarthak&v=1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -315,7 +315,7 @@ class SarthakChauhan:
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Codeninjasarthak&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CodeNinjaSarthak&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
