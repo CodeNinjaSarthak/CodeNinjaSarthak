@@ -237,10 +237,13 @@ class SarthakChauhan:
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+ -->
 
+ <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinjaSarthak&layout=compact&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180" alt="Top Languages"/>
+![](./metrics.svg)
+
 </div>
 
 <div align="center">
@@ -249,9 +252,9 @@ class SarthakChauhan:
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeNinjaSarthak&v=1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 
