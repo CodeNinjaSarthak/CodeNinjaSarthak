@@ -73,7 +73,7 @@ class SarthakChauhan:
     <td width="50%">
       <h3 align="center">DataWhiz</h3>
       <p align="center">
-        <a href="https://github.com/CodeNinjaSarthak/DataWhiz">
+        <a href="https://vsk-project.vercel.app/">
           <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
