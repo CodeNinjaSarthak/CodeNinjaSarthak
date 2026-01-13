@@ -232,26 +232,27 @@ class SarthakChauhan:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&v=1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
- -->
 
- <div align="center">
+### 🔥 Streak Stats
+<img src="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak" width="100%"/>
 
-![](./metrics.svg)
+<br/><br/>
+
+### 📈 Detailed Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinjaSarthak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" width="49%"/>
+
+<br/><br/>
+
+
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeNinjaSarthak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" width="100%"/>
 
 </div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeNinjaSarthak&v=1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div> -->
