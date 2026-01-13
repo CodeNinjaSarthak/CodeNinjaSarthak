@@ -239,11 +239,6 @@ class SarthakChauhan:
 ### 🔥 Streak Stats
 <img src="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak" width="100%"/>
 
-<br/><br/>
-
-### 📈 Detailed Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=CodeNinjaSarthak&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinjaSarthak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" width="49%"/>
 
 <br/><br/>
 
