@@ -23,8 +23,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          committer_token: ${{ secrets.GH_TOKEN }}
           
           # Base content
           base: header, activity, community, repositories, metadata
