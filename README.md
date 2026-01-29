@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://linkedin.com/in/sarthak-chauhan-32b1b325b">
+  <a href="https://www.linkedin.com/in/sarthak-chauhan-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sarthak4156@gmail.com">
@@ -41,15 +41,16 @@
 class SarthakChauhan:
     def __init__(self):
         self.role = "AI/ML Engineer & Researcher"
-        self.education = "B.Tech CSE (AI/ML) @ Bennett University | CGPA: 9.36"
+        self.education = "B.Tech CSE (AI/ML) @ Bennett University"
+        self.achievements = "CGPA: 9.42/10.0 | Dean's List (Top 10%)"
         self.location = "India 🇮🇳"
         
     def current_work(self):
         return [
-            "🔬 Building RAG systems with 10K+ NCERT embeddings at Cograd",
-            "🚗 YOLOv8 + dehazing for foggy traffic detection (Gov of India Project)",
-            "🧬 PINNs for brain tumor growth simulation",
-            "💬 Hinglish NLP with mBERT/XLM-R achieving 90% accuracy"
+            "🔬 Building RAG systems with curriculum-aligned content at Cograd",
+            "🚗 YOLOv8 + dehazing for foggy traffic detection (Funded Project)",
+            "🧠 BraTS-2020 tumor segmentation with Dice optimization",
+            "💬 Hinglish NLP with mBERT/XLM-R achieving 90.7% accuracy"
         ]
     
     def skills(self):
@@ -73,50 +74,49 @@ class SarthakChauhan:
     <td width="50%">
       <h3 align="center">DataWhiz</h3>
       <p align="center">
-        <a href="https://vsk-project.vercel.app/">
-          <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://vskai.cograd.in/">
+          <img src="https://img.shields.io/badge/Production-6366F1?style=for-the-badge"/>
         </a>
       </p>
-      <p><strong>Natural Language → SQL with Multi-Agent LLMs</strong></p>
-      <p>🎯 92%+ accuracy on 100+ query cases<br/>⚡ 65% faster query generation via FastAPI<br/>📊 Auto-visualization with LIDA for 10K+ data points</p>
-      <p><code>FastAPI</code> <code>GPT-4o</code> <code>DuckDB</code> <code>MongoDB</code> <code>LIDA</code></p>
+      <p><strong>Text-to-SQL System with Multi-Agent Orchestration</strong></p>
+      <p>🗃️ Handles 200+ table databases with GPT-4o + LangChain<br/>🎯 35% error reduction via vector schema retrieval<br/>📊 3.2x faster insights with LIDA auto-visualization (N=12 user study)</p>
+      <p><code>FastAPI</code> <code>LangChain</code> <code>DuckDB</code> <code>Neo4j</code> <code>Azure</code></p>
     </td>
     <td width="50%">
       <h3 align="center">Aurigen</h3>
       <p align="center">
-        <a href="https://github.com/CodeNinjaSarthak/Aurigen">
+        <a href="https://github.com/CodeNinjaSarthak/Aurigen-AI-Powered-Jewelry-Design-Studio">
           <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p><strong>AI-Powered Jewelry Design Generator</strong></p>
-      <p>🎨 SDXL + ControlNet multimodal pipeline with LoRA<br/>📁 Curated 6K+ custom dataset<br/>🚀 Optimized inference with float16 & batching</p>
-      <p><code>PyTorch</code> <code>Stable Diffusion XL</code> <code>ControlNet</code> <code>Streamlit</code></p>
+      <p><strong>AI Jewelry Design Studio</strong></p>
+      <p>💎 Fine-tuned SDXL + LoRA on 6K jewelry images<br/>🎨 ControlNet for geometric constraint preservation<br/>⚡ FP16 optimization: 8.2s → 2.1s per image</p>
+      <p><code>SDXL</code> <code>ControlNet</code> <code>LoRA</code> <code>PyTorch</code> <code>Streamlit</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">AeroPINN</h3>
+      <h3 align="center">AI-Powered Live Class Doubt Management</h3>
       <p align="center">
-        <a href="https://github.com/CodeNinjaSarthak/AeroPINN">
-          <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+        <img src="https://img.shields.io/badge/In_Development-6366F1?style=for-the-badge"/>
       </p>
-      <p><strong>Physics-Informed Neural Networks for Aerodynamics</strong></p>
-      <p>✈️ 95% accuracy simulating airflow around airfoils<br/>⚡ 100x faster than traditional CFD (OpenFOAM)<br/>⏱️ Predictions delivered in under 1 second</p>
-      <p><code>TensorFlow</code> <code>PyTorch</code> <code>NumPy</code> <code>Streamlit</code></p>
+      <p><strong>Real-time Doubt Clustering for Live Sessions</strong></p>
+      <p>🎓 68% reduction in instructor response time (200-doubt simulations)<br/>⚡ Async LLM pipeline with instructor verification loop<br/>📈 Supports 100+ concurrent doubts in YouTube live</p>
+      <p><code>FastAPI</code> <code>LLMs</code> <code>pgvector</code> <code>Redis</code></p>
     </td>
     <td width="50%">
       <h3 align="center">RAG Content Generator</h3>
       <p align="center">
+        <a href="https://medha.cograd.in/">
         <img src="https://img.shields.io/badge/Production-6366F1?style=for-the-badge"/>
+        </a>
       </p>
       <p><strong>Enterprise RAG System @ Cograd</strong></p>
-      <p>📚 10K+ NCERT embeddings in Qdrant<br/>⏰ Reduced content creation: 60min → 4min (93% faster)<br/>👥 Serving 500+ students across grades 6-12</p>
-      <p><code>Qdrant</code> <code>Azure</code> <code>FastAPI</code> <code>scikit-learn</code></p>
+      <p>📚 Deployed across 20+ teachers in 3 schools<br/>✅ 78% of content required minimal editing<br/>💰 25-30% LLM cost reduction via compression & caching<br/>⚡ Supports 50+ concurrent users</p>
+      <p><code>Qdrant</code> <code>MongoDB</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎯 Skills
@@ -154,7 +154,7 @@ class SarthakChauhan:
 - PyTorch, TensorFlow, Hugging Face
 - scikit-learn, OpenCV, NumPy, Pandas
 - FastAPI, Streamlit, DuckDB, MongoDB
-- Qdrant, Neo4j
+- Qdrant, Neo4j, PostgreSQL, MySQL
 
 </td>
 <td width="50%" valign="top">
@@ -163,6 +163,7 @@ class SarthakChauhan:
 - Docker, MLflow, Weights & Biases
 - ONNX, TensorRT (FP16/INT8 optimization)
 - Azure, GCP, Linux
+- Grafana, Prometheus, CI/CD
 - Experiment Tracking, Profiling & Deployment
 - CUDA, LaTeX
 
@@ -209,6 +210,8 @@ class SarthakChauhan:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -216,6 +219,8 @@ class SarthakChauhan:
 ### 📊 MLOps & Optimization
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -270,11 +275,11 @@ class SarthakChauhan:
 
 <div align="center">
 
-| 🥇 Hackathons | 🎓 Academic | 📜 Certifications |
+| 🥇 Hackathons & Competitions | 🎓 Academic | 📜 Certifications |
 |:---:|:---:|:---:|
-| **Convolve 3.0 Finalist** (IIT) | **Dean's List Award** | IBM Machine Learning |
-| **Amazon ML Challenge Top 1%** (70K+ participants) | CGPA: **9.36/10** | Deep Learning Specialization |
-| **Kharagpur Data Science Semi-finalist** | Published @ **IC3SE 2025** | GenAI with LLMs |
+| **Amazon ML Challenge 2024**<br/>Top 0.5% (409/74,823) | **Dean's List Award**<br/>Top 10% | IBM Machine Learning |
+| **IIT Bombay Convolve**<br/>Top 50/4,189 Teams | CGPA: **9.42/10.0** | Deep Learning Specialization |
+| **Kharagpur Data Science**<br/>Semi-finalist | Published @ **IC3SE 2025** | GenAI with LLMs |
 
 </div>
 
@@ -284,11 +289,12 @@ class SarthakChauhan:
 
 <div align="center">
 
-📄 **"Deep Learning-based Brain Tumor Detection"**  
-*Accepted & Presented at IC3SE, 2025*
+📄 **"Deep Learning-based Brain Tumor Detection"** (Second Author)  
+*Accepted & Presented at IC3SE 2025, IEEE UP Section*
 
-📄 **"Hinglish Abusive Comment Detection Using Transformer-Based Models"**  
-*Under Review at AICAPS, 2026*
+📄 **"Hinglish Abusive Comment Detection Using Transformer-Based Models"** (First Author)  
+*Accepted at AICAPS 2026, IEEE Kerala Section co-sponsored*
+
 
 </div>
 
