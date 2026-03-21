@@ -1,13 +1,13 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Sarthak+Chauhan+%F0%9F%91%8B;AI%2FML+Engineer+%26+Researcher;Building+Intelligent+Systems;LLM+Agents+%7C+RAG+%7C+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Sarthak+Chauhan+%F0%9F%91%8B;AI%2FML+Engineer+%26+Researcher;ML+Researcher+%7C+Vision+Robustness;Building+Intelligent+Systems;LLM+Agents+%7C+RAG+%7C+Computer+Vision" alt="Typing SVG" />
 
 <br/>
 
 <!-- Subtitle -->
 <p>
-  <em>AI/ML Engineer crafting end-to-end intelligent systems — from LLM agents to real-time computer vision 🚀</em>
+  <em>AI/ML Engineer & Researcher — from vision robustness evaluation to production LLM systems 🚀</em>
 </p>
 
 <!-- Social Badges -->
@@ -47,10 +47,10 @@ class SarthakChauhan:
         
     def current_work(self):
         return [
-            "🔬 Building RAG systems with curriculum-aligned content at Cograd",
-            "🚗 YOLOv8 + dehazing for foggy traffic detection (Funded Project)",
-            "🧠 BraTS-2020 tumor segmentation with Dice optimization",
-            "💬 Hinglish NLP with mBERT/XLM-R achieving 90.7% accuracy"
+            "🔬 Vision model robustness: benchmarking 12 architectures across IN-Val/V2/R/A (ECE, NLL, per-class dispersion)",
+            "🚗 Fog-highway dehazing benchmark: 10 architectures, 15–20 dB PSNR gap finding (DICCT 2026)",
+            "🏫 Production RAG pipeline @ Cograd: 50+ teachers, 6 schools, 42% prep-time reduction",
+            "💬 Hinglish abuse detection: XLM-R + BiGRU, F1 0.866 on 700K posts (IEEE AICAPS 2026)"
         ]
     
     def skills(self):
@@ -67,6 +67,33 @@ class SarthakChauhan:
 
 ---
 
+## 🔬 Research Focus
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Distribution Shift & Model Calibration**
+Investigating how natural and rendition-based shifts expose calibration failures in vision
+models. Found training recipe dominates over architecture family: ResNet-50-V1 (ECE=0.039)
+vs V2 (ECE=0.410) at comparable Top-1 accuracy.
+
+</td>
+<td width="50%" valign="top">
+
+**Evaluation Beyond Average Accuracy**
+Building benchmarking frameworks that measure worst-group robustness, per-class dispersion,
+ECE, and NLL across architecture families (ResNets, ViTs, Swin-T, ConvNeXt, MaxViT)
+on IN-Val, IN-V2, IN-R, IN-A.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -79,8 +106,30 @@ class SarthakChauhan:
         </a>
       </p>
       <p><strong>Text-to-SQL System with Multi-Agent Orchestration</strong></p>
-      <p>🗃️ Handles 200+ table databases with GPT-4o + LangChain<br/>🎯 35% error reduction via vector schema retrieval<br/>📊 3.2x faster insights with LIDA auto-visualization (N=12 user study)</p>
+      <p>🗃️ Handles 200+ table databases with GPT-4o + LangChain<br/>🎯 35% error reduction via vector schema retrieval over full-schema prompting<br/>📊 3.2× faster insights with LIDA auto-visualization (N=12 user study)<br/>☁️ Deployed on Azure with CI/CD pipeline</p>
       <p><code>FastAPI</code> <code>LangChain</code> <code>DuckDB</code> <code>Neo4j</code> <code>Azure</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">StreamMind</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Completed-6366F1?style=for-the-badge"/>
+      </p>
+      <p><strong>Real-time AI Doubt Clustering for Live Classes</strong></p>
+      <p>⚡ 6-stage async pipeline with dedicated Redis workers per stage<br/>📉 68% reduction in instructor response time (200-doubt benchmark)<br/>🔍 pgvector ANN search collapses semantic duplicates before answer generation<br/>🔴 WebSocket layer supports 100+ concurrent doubts on YouTube Live</p>
+      <p><code>FastAPI</code> <code>Redis</code> <code>pgvector</code> <code>WebSocket</code> <code>LLMs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Medha AI</h3>
+      <p align="center">
+        <a href="https://medha.cograd.in/">
+          <img src="https://img.shields.io/badge/Production-6366F1?style=for-the-badge"/>
+        </a>
+      </p>
+      <p><strong>Enterprise RAG System @ Cograd <em>(Team Project)</em></strong></p>
+      <p>🏫 Deployed across 50+ teachers in 6 schools<br/>✅ 78% of content required minimal editing<br/>⚡ 2.5–3.5× latency cut via asyncio parallelization + SSE stream merging (~1s TTFT)<br/>💰 25–30% LLM cost reduction via prompt compression & quantization</p>
+      <p><code>Qdrant</code> <code>MongoDB</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code></p>
     </td>
     <td width="50%">
       <h3 align="center">Aurigen</h3>
@@ -90,33 +139,18 @@ class SarthakChauhan:
         </a>
       </p>
       <p><strong>AI Jewelry Design Studio</strong></p>
-      <p>💎 Fine-tuned SDXL + LoRA on 6K jewelry images<br/>🎨 ControlNet for geometric constraint preservation<br/>⚡ FP16 optimization: 8.2s → 2.1s per image</p>
+      <p>💎 Fine-tuned SDXL via LoRA (FP16, 10K steps) on self-curated 6,157-image dataset<br/>🎨 ControlNet Canny preserves geometric constraints where vanilla SDXL drifted<br/>⚡ 3.9× latency reduction (8.2s → 2.1s) via attention caching + FP16</p>
       <p><code>SDXL</code> <code>ControlNet</code> <code>LoRA</code> <code>PyTorch</code> <code>Streamlit</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI-Powered Live Class Doubt Management</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/In_Development-6366F1?style=for-the-badge"/>
-      </p>
-      <p><strong>Real-time Doubt Clustering for Live Sessions</strong></p>
-      <p>🎓 68% reduction in instructor response time (200-doubt simulations)<br/>⚡ Async LLM pipeline with instructor verification loop<br/>📈 Supports 100+ concurrent doubts in YouTube live</p>
-      <p><code>FastAPI</code> <code>LLMs</code> <code>pgvector</code> <code>Redis</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">RAG Content Generator</h3>
-      <p align="center">
-        <a href="https://medha.cograd.in/">
-        <img src="https://img.shields.io/badge/Production-6366F1?style=for-the-badge"/>
-        </a>
-      </p>
-      <p><strong>Enterprise RAG System @ Cograd</strong></p>
-      <p>📚 Deployed across 20+ teachers in 3 schools<br/>✅ 78% of content required minimal editing<br/>💰 25-30% LLM cost reduction via compression & caching<br/>⚡ Supports 50+ concurrent users</p>
-      <p><code>Qdrant</code> <code>MongoDB</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code></p>
-    </td>
-  </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/CodeNinjaSarthak?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+  <br/><sub>📌 Ongoing Research: <strong>Vision Model Robustness Evaluation</strong> — benchmarking 12 architectures (ResNets, ViTs, Swin-T, ConvNeXt, MaxViT) across IN-Val, IN-V2, IN-R, IN-A · Measuring ECE, NLL & per-class dispersion · <a href="https://api.wandb.ai/links/project2034acc-n-a/4lxdl31r">W&B Report ↗</a> · PyTorch · <em>In Progress</em></sub>
+</div>
 ---
 
 ## 🎯 Skills
@@ -152,6 +186,7 @@ class SarthakChauhan:
 
 ### 📚 Frameworks & Libraries
 - PyTorch, TensorFlow, Hugging Face
+- HuggingFace Diffusers, SciPy
 - scikit-learn, OpenCV, NumPy, Pandas
 - FastAPI, Streamlit, DuckDB, MongoDB
 - Qdrant, Neo4j, PostgreSQL, MySQL
@@ -162,6 +197,7 @@ class SarthakChauhan:
 ### ⚙️ MLOps & Systems
 - Docker, MLflow, Weights & Biases
 - ONNX, TensorRT (FP16/INT8 optimization)
+- GGUF Quantization, Model Compression
 - Azure, GCP, Linux
 - Grafana, Prometheus, CI/CD
 - Experiment Tracking, Profiling & Deployment
@@ -242,7 +278,11 @@ class SarthakChauhan:
 <div align="center">
 
 ### 🔥 Streak Stats
-<img src="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=default&hide_border=true&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=333333&sideLabels=6366F1" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeNinjaSarthak&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak" width="100%"/>
+</picture>
 
 
 <br/><br/>
@@ -250,7 +290,11 @@ class SarthakChauhan:
 
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeNinjaSarthak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CodeNinjaSarthak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CodeNinjaSarthak&theme=minimal&hide_border=true&color=6366F1&line=6366F1&point=FF6B6B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeNinjaSarthak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" width="100%"/>
+</picture>
 
 </div>
 <!-- <div align="center">
@@ -278,8 +322,9 @@ class SarthakChauhan:
 | 🥇 Hackathons & Competitions | 🎓 Academic | 📜 Certifications |
 |:---:|:---:|:---:|
 | **Amazon ML Challenge 2024**<br/>Top 0.5% (409/74,823) | **Dean's List Award**<br/>Top 10% | IBM Machine Learning |
-| **IIT Bombay Convolve**<br/>Top 50/4,189 Teams | CGPA: **9.42/10.0** | Deep Learning Specialization |
+| **IIT Bombay Convolve**<br/>Top 50/4,189 Teams | CGPA: **9.42/10.0** | Deep Learning Specialization (Andrew Ng) |
 | **Kharagpur Data Science**<br/>Semi-finalist | Published @ **IC3SE 2025** | GenAI with LLMs |
+| | | AI Agents Intensive — Google × Kaggle 2025 |
 
 </div>
 
@@ -289,12 +334,14 @@ class SarthakChauhan:
 
 <div align="center">
 
-📄 **"Deep Learning-based Brain Tumor Detection"** (Second Author)  
-*Accepted & Presented at IC3SE 2025, IEEE UP Section*
+📄 **"Hinglish Abusive Comment Detection Using Transformer-Based Models"** (First Author)
+*Accepted at AICAPS 2026, IEEE Kerala Section — XLM-R + BiGRU, F1 0.866 on 700K+ code-mixed posts*
 
-📄 **"Hinglish Abusive Comment Detection Using Transformer-Based Models"** (First Author)  
-*Accepted at AICAPS 2026, IEEE Kerala Section co-sponsored*
+📄 **"Image and Video Dehazing for Dense-Fog Indian Highway Scenarios"** (First Author)
+*Accepted at DICCT 2026 — Benchmarked 10 dehazing methods; identified 15–20 dB PSNR gap between synthetic benchmarks and real dense-fog conditions*
 
+📄 **"Deep Learning-Based Brain Tumour Identification"** (Second Author)
+*Accepted & Presented at IC3SE 2025, IEEE UP Section — Residual CNN, 97.10% accuracy at 5M parameters*
 
 </div>
 
