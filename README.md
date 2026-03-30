@@ -112,6 +112,7 @@ on IN-Val, IN-V2, IN-R, IN-A.
     <td width="50%">
       <h3 align="center">StreamMind</h3>
       <p align="center">
+        <a href="https://github.com/CodeNinjaSarthak/StreamMind">
         <img src="https://img.shields.io/badge/Completed-6366F1?style=for-the-badge"/>
       </p>
       <p><strong>Real-time AI Doubt Clustering for Live Classes</strong></p>
