@@ -55,9 +55,9 @@ class SarthakChauhan:
 
     currently_building = [
         "Production-scale GenAI infrastructure",
-        "Memory systems for conversational reasoning",
-        "Robustness benchmarking pipelines",
-        "Low-latency async AI systems"
+        "Long-context retrieval and reranking systems",
+        "Low-latency async AI systems",
+        "Reliable LLM evaluation pipelines"
     ]
 ```
 
